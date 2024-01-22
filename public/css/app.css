@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(./../../src/img/math.jpg);
+}
+body section {
+  height: 500px;
+  padding: 50px;
+  width: 500px;
+  background-color: gray;
+}
+body section h1 {
+  display: flex;
+  justify-content: center;
+}
+body section p {
+  display: flex;
+  justify-content: right;
+  padding-right: 20px;
+  align-items: center;
+  background-color: white;
+  border: black solid 2px;
+  height: 30px;
+}
+body section #calculate {
+  display: flex;
+  height: 300px;
+  width: 500px;
+}
+body section #numbers {
+  height: 300px;
+  width: 350px;
+}
+body section #numbers button {
+  border: black 2px solid;
+  margin-top: 5px;
+  height: 80px;
+  width: 100px;
+}
+body section #operations {
+  height: 300px;
+  width: 150px;
+  padding-top: 5px;
+}
+body section #operations button {
+  border: black 2px solid;
+  height: 84px;
+  width: 150px;
+}
+
+/*# sourceMappingURL=app.css.map */
