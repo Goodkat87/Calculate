@@ -7,6 +7,7 @@ body {
   justify-content: center;
   align-items: center;
   background-image: url(./../../src/img/BB.jpg);
+  background-position: center;
 }
 body section {
   height: max-content;
