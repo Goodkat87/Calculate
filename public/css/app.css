@@ -6,7 +6,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(./../../src/img/bb.jpg);
+  background-image: url(./../../src/img/BB.jpg);
 }
 body section {
   height: max-content;
